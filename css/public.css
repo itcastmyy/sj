@@ -1,0 +1,18 @@
+/*共用*/
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td,a{ margin:0; padding:0}
+body,button,input,select,textarea{ font-size:14px; font-family:Tahoma, Helvetica, Arial, SimSun, sans-serif; color:#000000;}
+ul,ol{list-style:none;}
+small{font-size:12px;}
+img{ border:0;outline:none; vertical-align:top; width:100%;}
+table {border-collapse:collapse;border-spacing:0}
+a:link,a:visited,a:hover,a:active {text-decoration:none;outline:none}
+a:hover { text-decoration:none;}
+a:active{star:expression(this.onFocus=this.blur());}
+:focus {outline:none}
+.fl{float:left;}.fr{float:right;}.cl{clear:both;}.fb{font-weight:bold;}
+.fe{color:#ff4e00;}
+.fam { font-family:SimSun;}
+.clear:after{ content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.relative{position:relative}
+.absolute{position:absolute}
+body{max-width: 640px;margin:0 auto;}
