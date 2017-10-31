@@ -109,7 +109,7 @@ bottom: 7%;left:38%
 .contackus a img{width:100%; height:auto;}
 .bottom_btn{height:2.5em; text-align:center; line-height:2.5em; margin-bottom:5em;}
 .bottom_btn a{font-size:1.2em; padding:0.3em;}
-.footer{position:fixed;bottom:0;width:100%;z-index:10; max-width:640px;}
+.footer{bottom:0;width:100%;z-index:10; max-width:640px;}
 .footer a{float:left; width:33.333333%;display:block;}
 .footer a img{width:100%; height:auto;}
 /*授牌*/

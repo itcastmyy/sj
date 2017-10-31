@@ -484,3 +484,20 @@ footer{margin-top:20px; margin-bottom: 100px;}
     }
 }
 
+.clear_15{clear:both;}
+.zaixian{  width:100%;max-width:730px; height:260px;  margin:0px auto; margin-bottom:0px;}
+.zaixian_tou{ width:100%; height:40px; background-color:#dab866; margin:0px auto;  line-height:20px; text-align:center; }
+.zaixian_tou span{ font-size:16px;color:#ffffff;font-family:"微软雅黑"; font-weight:bold;  line-height:40px;}
+.zaixian_ti{ line-height:50px; width:100%; text-align:center; margin:40px auto  ;font-size:18px;color:#212121; }
+form{margin-top:7%;}
+form table{width:100%;margin-top:15px;}
+#xm ,#sj,#yyxm{
+	margin-left:10%
+}
+form tr td{font-size:16px;height:40px;line-height:40px;}
+form tr td input{width:70%;height:30px;border:1px solid #aaa;}
+.coolbg{background-color:#dab866;display:inline-block; margin-top:10px; height:50px; font-size:24px;color:#fff;padding:6px 30px;font-weight:bold;border-radius:6px; }
+
+
+.footer{width:100%; margin:0px auto; overflow:hidden; line-height:30px;
+ text-align:center; font-size:16px; margin-bottom:28px; border-top:1px solid #CCCCCC; padding:15px 0 0 0;}

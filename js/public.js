@@ -337,5 +337,3 @@ if(seturl.indexOf("4000505027") >0)
 	}*/
 	/*底部弹窗*/
 	 /*document.write('<script type="text/javascript" src="/templets/201412/js/footswt.js"></script>');*/
-	document.write('<script language="javascript" src="js/gjgz.js"></script>')
-	document.write('<script language="javascript" src="js/bdtj.js"></script>')
